@@ -1,0 +1,7 @@
+requests
+colorama
+rich
+faker
+fake-useragent
+pytz
+concurrent.futures
